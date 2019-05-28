@@ -5,4 +5,5 @@
 - This will be the continuous integration.
 ## Testing
 - Webhook Test 1 - Passed
-- Unit and Int Test 1
+- Unit and Int Test 1 - Failed (VM not capable of running chef code)
+- Webhook Test 2
